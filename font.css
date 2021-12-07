@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700&amp;display=swap');
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://kna.forest.go.kr/fonts/noto_sans/eot/NotoSansKR-Light-Hestia.eot?#iefix) format('embedded-opentype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: url(https://kna.forest.go.kr/fonts/noto_sans/eot/NotoSansKR-Regular-Hestia.eot?#iefix) format('embedded-opentype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://kna.forest.go.kr/fonts/noto_sans/eot/NotoSansKR-Bold-Hestia.eot?#iefix) format('embedded-opentype');
+}
